@@ -1,0 +1,14 @@
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.deps.json
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.dll
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\bin\Debug\netstandard2.0\Quotes.pdb
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.csprojAssemblyReference.cache
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\QuoteDetailPage.xaml.g.cs
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.csproj.CoreCompileInputs.cache
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.AssemblyInfoInputs.cache
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.AssemblyInfo.cs
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\XamlC.stamp
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.dll
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\Quotes.pdb
+E:\360EventRepo\xamarin-hands-on-labs\Lab03\Starter\Quotes\Quotes\obj\Debug\netstandard2.0\EditQuotePage.xaml.g.cs

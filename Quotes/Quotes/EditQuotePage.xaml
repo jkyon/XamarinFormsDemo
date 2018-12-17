@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quotes.EditQuotePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" Padding="20">
+            <Label Text="Author Name"></Label>
+            <Entry Keyboard="Text" Placeholder="Add name here" Text="{Binding Author}"></Entry>
+            <Label Text="Quote Text Name"></Label>
+            <Editor Placeholder="Add Quote here" Keyboard="Text" AutoSize="TextChanges" Text="{Binding QuoteText}"></Editor>
+            <Button Text="Save" VerticalOptions="End" Clicked="Save"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
